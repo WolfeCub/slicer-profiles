@@ -1,0 +1,37 @@
+[error]	2024-12-12 15:25:50.051926[Thread 0x00006724]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 15:25:50.071938[Thread 0x00006ef8]:Unable to open the fileC:\Users\Wolfe\Downloads\2mm Spacer.stl
+[error]	2024-12-12 15:25:50.071938[Thread 0x00006724]:Unable to open the fileC:\Users\Wolfe\Downloads\cabin v5(1).stl
+[error]	2024-12-12 15:25:50.072938[Thread 0x00006f14]:Unable to open the fileC:\Users\Wolfe\Downloads\Blade(2).stl
+[error]	2024-12-12 15:25:52.872019[Thread 0x00006724]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-12 15:25:53.099596[Thread 0x00006724]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-12 15:25:59.427835[Thread 0x00006724]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 15:27:24.406597[Thread 0x00006724]:Unable to open the fileC:\Users\Wolfe\Downloads\Snowman OrnamentII2.stl
+[warning]	2024-12-12 15:27:34.036145[Thread 0x00002968]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[error]	2024-12-12 15:28:17.259734[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 15:28:17.544425[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 15:28:18.813242[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 15:28:36.402293[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 15:28:37.953473[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-12 15:28:40.227249[Thread 0x00002968]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[warning]	2024-12-12 15:28:47.150777[Thread 0x00006e7c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-12 15:28:47.197285[Thread 0x00006e7c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-12 15:29:26.831569[Thread 0x00006e7c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-12 15:29:26.876572[Thread 0x00006e7c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-12-12 15:37:29.523755[Thread 0x00000614]:PrusaSlicer failed to resolve hostname http://trident.jw.lan into the IP address. Starting upload with system resolving.
+[warning]	2024-12-12 16:35:14.664241[Thread 0x00002968]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[warning]	2024-12-12 16:35:16.903792[Thread 0x00002968]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[warning]	2024-12-12 16:35:19.432809[Thread 0x00002968]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[warning]	2024-12-12 16:35:21.007661[Thread 0x00002968]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[error]	2024-12-12 16:35:41.567920[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 16:35:42.491914[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 16:36:05.697338[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 16:36:08.969533[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 16:36:27.270950[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 16:36:28.055281[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 16:36:35.808607[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 16:36:36.819074[Thread 0x00006724]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 16:36:36.842076[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 16:36:42.762266[Thread 0x00006724]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-12 16:36:44.956401[Thread 0x00006e7c]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-12-12 16:37:00.903172[Thread 0x00000614]:PrusaSlicer failed to resolve hostname http://trident.jw.lan into the IP address. Starting upload with system resolving.
+[error]	2024-12-12 17:02:11.821529[Thread 0x00006724]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

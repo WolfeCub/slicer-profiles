@@ -1,0 +1,38 @@
+[error]	2024-12-13 13:27:50.223042[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:27:50.248556[Thread 0x00006834]:Unable to open the fileC:\Users\Wolfe\Downloads\Snowman OrnamentII2.stl
+[error]	2024-12-13 13:27:53.047498[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-13 13:27:53.272210[Thread 0x00006834]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-13 13:27:56.393395[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:29:45.267490[Thread 0x00006834]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-13 13:29:46.300159[Thread 0x00006834]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-13 13:29:48.945018[Thread 0x00006834]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-13 13:30:10.140359[Thread 0x00006834]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-13 13:30:10.169358[Thread 0x00006834]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-13 13:30:10.264883[Thread 0x00006834]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-13 13:30:33.632172[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:32:01.510580[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:32:15.609370[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:32:22.989982[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:32:30.665544[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:32:45.292520[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:32:50.051974[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:34:50.607991[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:34:53.453110[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:35:48.628505[Thread 0x00006834]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-13 13:41:00.517704[Thread 0x00006834]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-13 13:41:31.107938[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:41:37.910010[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:42:27.672212[Thread 0x00006834]:Unable to open the fileC:\Users\Wolfe\Downloads\First_Layer_Patch-0.25mm.stl
+[warning]	2024-12-13 13:42:38.727503[Thread 0x00006834]:Slic3r::GUI::Plater::priv::restart_background_process, Line 5425: ui jobs running, return false
+[warning]	2024-12-13 13:42:38.739107[Thread 0x000038c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2024-12-13 13:42:47.031194[Thread 0x00006834]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-13 13:42:47.869191[Thread 0x00006834]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-13 13:42:55.490551[Thread 0x00006834]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-13 13:42:56.884776[Thread 0x00006834]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-13 13:43:12.997765[Thread 0x00002b9c]:PrusaSlicer failed to resolve hostname http://kitten.jw.lan:8010 into the IP address. Starting upload with system resolving.
+[error]	2024-12-13 13:43:31.975425[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:43:42.766793[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 13:43:54.502412[Thread 0x00002b9c]:PrusaSlicer failed to resolve hostname http://kitten.jw.lan:8010 into the IP address. Starting upload with system resolving.
+[error]	2024-12-13 14:19:55.089945[Thread 0x00002b9c]:PrusaSlicer failed to resolve hostname http://kitten.jw.lan:8010 into the IP address. Starting upload with system resolving.
+[error]	2024-12-13 14:25:40.826973[Thread 0x00002b9c]:PrusaSlicer failed to resolve hostname http://kitten.jw.lan:8010 into the IP address. Starting upload with system resolving.
+[error]	2024-12-13 23:02:13.245831[Thread 0x00006834]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

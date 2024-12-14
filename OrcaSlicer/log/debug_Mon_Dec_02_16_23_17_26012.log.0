@@ -1,0 +1,12 @@
+[error]	2024-12-02 16:23:21.997683[Thread 0x00005f1c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-02 16:23:22.001682[Thread 0x00005f1c]:Unable to open the fileC:\Users\Wolfe\Downloads\First_Layer_Patch-0.25mm.stl
+[error]	2024-12-02 16:23:22.001682[Thread 0x000012fc]:File Metadata/plate_1.png not found from archive
+[error]	2024-12-02 16:23:22.001682[Thread 0x0000131c]:Unable to open the fileC:\Users\Wolfe\Downloads\cable clip v1.stl
+[error]	2024-12-02 16:23:24.661686[Thread 0x00005f1c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-02 16:23:24.901724[Thread 0x00005f1c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-02 16:23:26.229034[Thread 0x00005f1c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-02 16:23:30.964898[Thread 0x00005f1c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-02 16:23:54.533242[Thread 0x00005f1c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-02 16:23:58.158060[Thread 0x00005f1c]:Unable to open the fileC:\Users\Wolfe\Downloads\First_Layer_Patch-0.25mm.stl
+[warning]	2024-12-02 16:23:59.694864[Thread 0x00002824]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":250.000000,
+[error]	2024-12-02 16:24:50.094294[Thread 0x00005f1c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,45 @@
+[error]	2024-12-11 19:49:24.340269[Thread 0x00002184]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-11 19:49:24.362907[Thread 0x00006990]:Unable to open the fileC:\Users\Wolfe\Downloads\2mm Spacer.stl
+[error]	2024-12-11 19:49:24.364907[Thread 0x00002184]:Unable to open the fileC:\Users\Wolfe\Downloads\Blade(2).stl
+[error]	2024-12-11 19:49:27.962968[Thread 0x00002184]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-11 19:49:28.241426[Thread 0x00002184]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-11 20:05:11.242906[Thread 0x00002184]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-11 20:09:29.279804[Thread 0x00002184]:Unable to open the fileC:\Users\Wolfe\Downloads\cabin v5(1).stl
+[error]	2024-12-11 20:17:23.290154[Thread 0x00000d10]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[warning]	2024-12-11 20:17:27.049091[Thread 0x00002088]:Influence area could not be increased! Data about the Influence area: Radius: 1346455 at layer: 91 NextTarget: 91 Distance to top: 61 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000002E22031A140: Radius: 1346455 at layer: 92 NextTarget: 92 Distance to top: 60 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-12-11 20:17:27.099688[Thread 0x00002088]:Influence area could not be increased! Data about the Influence area: Radius: 1346455 at layer: 45 NextTarget: 45 Distance to top: 107 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000002E2204DB9A0: Radius: 1346455 at layer: 46 NextTarget: 46 Distance to top: 106 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-12-11 20:17:27.131247[Thread 0x00002cd8]:Influence area could not be increased! Data about the Influence area: Radius: 1346455 at layer: 28 NextTarget: 28 Distance to top: 124 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 000002E21265B4E0: Radius: 1346455 at layer: 29 NextTarget: 29 Distance to top: 123 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2024-12-11 20:17:27.729309[Thread 0x00000d10]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.729309[Thread 0x000026b0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.729309[Thread 0x00006e3c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.729309[Thread 0x000068d0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.729309[Thread 0x00002df4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.729815[Thread 0x0000445c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.729815[Thread 0x00000b70]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.729815[Thread 0x00006990]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.730313[Thread 0x00000ff0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.730814[Thread 0x00002088]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.732814[Thread 0x00002bc4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.735315[Thread 0x000026fc]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.738313[Thread 0x00002538]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.739822[Thread 0x000033c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.761855[Thread 0x00002cd8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.762355[Thread 0x0000416c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:17:27.772372[Thread 0x00002df4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:45.950358[Thread 0x00002df4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:45.950358[Thread 0x00006e3c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:45.950858[Thread 0x0000416c]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:45.951359[Thread 0x00002538]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:45.961369[Thread 0x00000d10]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:45.993404[Thread 0x000068d0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:46.015006[Thread 0x000033c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:46.017012[Thread 0x00006990]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:46.035665[Thread 0x00002cd8]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:46.046182[Thread 0x00002bc4]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:46.052704[Thread 0x00002088]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:20:46.070742[Thread 0x000033c0]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-11 20:21:42.299202[Thread 0x00002110]:PrusaSlicer failed to resolve hostname http://trident.jw.lan into the IP address. Starting upload with system resolving.
+[error]	2024-12-12 01:42:22.439574[Thread 0x00002184]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,9 @@
+[error]	2024-12-03 13:33:40.359564[Thread 0x000009b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-03 13:33:40.378171[Thread 0x0000688c]:Unable to open the fileC:\Users\Wolfe\Downloads\First_Layer_Patch-0.25mm.stl
+[error]	2024-12-03 13:33:40.379313[Thread 0x000009b0]:Unable to open the fileC:\Users\Wolfe\Downloads\tolerance_tester_2.0.stl
+[error]	2024-12-03 13:33:40.380241[Thread 0x00000838]:Unable to open the fileC:\Users\Wolfe\Downloads\cable clip v1.stl
+[error]	2024-12-03 13:33:40.384242[Thread 0x00003364]:File Metadata/plate_1.png not found from archive
+[warning]	2024-12-03 13:33:43.118425[Thread 0x000009b0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-03 13:33:45.623712[Thread 0x000009b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-03 13:33:47.023806[Thread 0x000009b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-03 13:34:36.467442[Thread 0x000009b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

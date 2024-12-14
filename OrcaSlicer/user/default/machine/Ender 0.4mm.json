@@ -1,0 +1,20 @@
+{
+    "emit_machine_limits_to_gcode": "0",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_start_gcode": "M82\nSTART_PRINT T_BED=[bed_temperature_initial_layer_single] T_EXTRUDER=[nozzle_temperature_initial_layer]",
+    "name": "Ender 0.4mm",
+    "print_host": "http://kitten.jw.lan:8010",
+    "printer_settings_id": "Ender 0.4mm",
+    "retraction_length": [
+        "1.15"
+    ],
+    "thumbnails": "48x48/PNG, 300x300/PNG",
+    "version": "2.2.0.4",
+    "z_hop": [
+        "0.2"
+    ]
+}

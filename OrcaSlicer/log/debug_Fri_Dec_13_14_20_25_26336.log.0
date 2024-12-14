@@ -1,0 +1,9 @@
+[error]	2024-12-13 14:20:32.658934[Thread 0x00004e4c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 14:20:32.661935[Thread 0x00004e4c]:Unable to open the fileC:\Users\Wolfe\Downloads\First_Layer_Patch-0.25mm.stl
+[error]	2024-12-13 14:20:32.661935[Thread 0x00000acc]:Unable to open the fileC:\Users\Wolfe\Downloads\Snowman OrnamentII2.stl
+[error]	2024-12-13 14:20:35.275503[Thread 0x00004e4c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-13 14:20:35.550659[Thread 0x00004e4c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-13 14:20:37.159970[Thread 0x00004e4c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 14:20:38.892287[Thread 0x00004e4c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-13 14:20:46.870807[Thread 0x00004e4c]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-13 14:21:09.600802[Thread 0x00004e4c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

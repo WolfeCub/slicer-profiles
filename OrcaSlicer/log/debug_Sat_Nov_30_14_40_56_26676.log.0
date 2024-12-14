@@ -1,0 +1,15 @@
+[error]	2024-11-30 14:41:02.218024[Thread 0x00001afc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-30 14:41:02.230272[Thread 0x00006654]:Unable to open the fileC:\Users\Wolfe\Downloads\led_strip_holder_350mm.stl
+[error]	2024-11-30 14:41:02.230272[Thread 0x000054a4]:Unable to open the fileC:\Users\Wolfe\Downloads\led_strip_holder_300mm.stl
+[error]	2024-11-30 14:41:02.230272[Thread 0x00003b74]:Unable to open the fileC:\Users\Wolfe\Downloads\chamber_thermistor_mount.stl
+[error]	2024-11-30 14:41:02.231271[Thread 0x00002b68]:Unable to open the fileC:\Users\Wolfe\Downloads\Bed Post Shim.stl
+[error]	2024-11-30 14:41:02.231775[Thread 0x0000255c]:Unable to open the fileC:\Users\Wolfe\Downloads\bin-medium.stl
+[error]	2024-11-30 14:41:02.233281[Thread 0x00001afc]:Unable to open the fileC:\Users\Wolfe\Downloads\Blade(1).stl
+[error]	2024-11-30 14:41:02.245720[Thread 0x00002a60]:Unable to open the fileC:\Users\Wolfe\Downloads\FT Corner Panel Bracket (S2).stl
+[warning]	2024-11-30 14:41:05.418904[Thread 0x00001afc]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-30 14:41:18.141137[Thread 0x00001afc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-30 14:41:20.685396[Thread 0x00001afc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-30 20:21:29.753601[Thread 0x00001afc]:Unable to open the fileC:\Users\Wolfe\Downloads\cable clip v1.stl
+[error]	2024-11-30 20:21:44.598237[Thread 0x00001afc]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-30 20:22:50.151003[Thread 0x00001afc]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-30 20:23:46.225531[Thread 0x00001afc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

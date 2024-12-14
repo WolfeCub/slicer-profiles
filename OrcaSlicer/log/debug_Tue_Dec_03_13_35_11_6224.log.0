@@ -1,0 +1,5 @@
+[error]	2024-12-03 13:35:15.134009[Thread 0x00006824]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-03 13:35:17.443090[Thread 0x00006824]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-03 13:35:17.652561[Thread 0x00006824]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-12-03 13:35:19.140486[Thread 0x00006824]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-03 13:35:57.654376[Thread 0x00006824]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
