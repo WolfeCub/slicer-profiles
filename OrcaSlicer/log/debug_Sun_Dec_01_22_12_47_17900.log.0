@@ -1,8 +1,0 @@
-[error]	2024-12-01 22:12:52.954219[Thread 0x00005b9c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-12-01 22:12:52.967237[Thread 0x00005b9c]:Unable to open the fileC:\Users\Wolfe\Downloads\cable clip v1.stl
-[error]	2024-12-01 22:12:55.738974[Thread 0x00005b9c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2024-12-01 22:12:56.007980[Thread 0x00005b9c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2024-12-01 22:25:12.004411[Thread 0x00005b9c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-12-01 22:25:18.059147[Thread 0x00005b9c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-12-01 22:25:19.146625[Thread 0x00005b9c]:File Metadata/plate_1.png not found from archive
-[error]	2024-12-01 22:42:58.973735[Thread 0x00005604]:PrusaSlicer failed to resolve hostname http://trident.jw.lan into the IP address. Starting upload with system resolving.

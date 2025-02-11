@@ -1,0 +1,43 @@
+[error]	2025-02-11 01:02:07.673929[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm.json!
+[error]	2025-02-11 01:02:07.673929[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\0.2mm.json!
+[error]	2025-02-11 01:02:07.673929[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\Voron Parts.json!
+[error]	2025-02-11 01:02:07.674929[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\Zero 0.20mm.json!
+[error]	2025-02-11 01:02:07.674929[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\ABS.json!
+[error]	2025-02-11 01:02:07.674929[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\ASA.json!
+[error]	2025-02-11 01:02:07.674929[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\PLA - Ender.json!
+[error]	2025-02-11 01:02:07.674929[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\PLA.json!
+[error]	2025-02-11 01:02:07.675928[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\machine\Ender 0.4mm.json!
+[error]	2025-02-11 01:02:07.675928[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\machine\Trident 0.4mm.json!
+[error]	2025-02-11 01:02:07.675928[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\machine\Zero 0.4.json!
+[error]	2025-02-11 01:02:12.207844[Thread 0x00002a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 01:02:13.787551[Thread 0x00002a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 01:02:14.332077[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:02:14.360690[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:02:14.458583[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:02:56.543373[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\0.20mm.json!
+[error]	2025-02-11 01:02:56.543373[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\0.2mm.json!
+[error]	2025-02-11 01:02:56.543373[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\Voron Parts.json!
+[error]	2025-02-11 01:02:56.543373[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\Zero 0.20mm.json!
+[error]	2025-02-11 01:02:56.544372[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\ABS.json!
+[error]	2025-02-11 01:02:56.544372[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\ASA.json!
+[error]	2025-02-11 01:02:56.544372[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\PLA - Ender.json!
+[error]	2025-02-11 01:02:56.544372[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\PLA.json!
+[error]	2025-02-11 01:02:56.545372[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\machine\Ender 0.4mm.json!
+[error]	2025-02-11 01:02:56.545372[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\machine\Trident 0.4mm.json!
+[error]	2025-02-11 01:02:56.545372[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\machine\Zero 0.4.json!
+[error]	2025-02-11 01:02:56.665006[Thread 0x00002a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-11 01:02:56.698351[Thread 0x00002a88]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-11 01:02:59.025172[Thread 0x00002a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-11 01:03:43.878459[Thread 0x00002a88]:Slic3r::PresetBundle::import_json_presets, can not find inherit preset for user preset Zero 0.4, just skip
+[error]	2025-02-11 01:03:52.144176[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:03:52.172088[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:03:52.263044[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:04:03.618629[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\process\0.2mm.json!
+[error]	2025-02-11 01:04:03.619629[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\filament\PLA - Ender.json!
+[error]	2025-02-11 01:04:03.620629[Thread 0x00002a88]:can not find parent for config C:\Users\Wolfe\AppData\Roaming\OrcaSlicer\user\default\machine\Ender 0.4mm.json!
+[error]	2025-02-11 01:04:03.819863[Thread 0x00002a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 01:04:47.161686[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:04:47.192307[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:04:47.287116[Thread 0x00002a88]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-02-11 01:05:05.073369[Thread 0x00002a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-11 01:05:08.556699[Thread 0x00002a88]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

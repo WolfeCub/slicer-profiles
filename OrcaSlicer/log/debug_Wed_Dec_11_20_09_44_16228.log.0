@@ -1,7 +1,0 @@
-[error]	2024-12-11 20:09:51.716806[Thread 0x00002e2c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-12-11 20:09:51.721305[Thread 0x00002e2c]:Unable to open the fileC:\Users\Wolfe\Downloads\Blade(2).stl
-[error]	2024-12-11 20:09:51.721807[Thread 0x00002e2c]:Unable to open the fileC:\Users\Wolfe\Downloads\2mm Spacer.stl
-[error]	2024-12-11 20:09:55.437750[Thread 0x00002e2c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2024-12-11 20:09:55.790856[Thread 0x00002e2c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2024-12-11 20:09:59.022904[Thread 0x00002e2c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-12-11 20:10:07.140931[Thread 0x00002e2c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

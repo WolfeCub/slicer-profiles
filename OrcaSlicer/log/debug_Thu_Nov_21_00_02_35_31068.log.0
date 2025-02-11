@@ -1,8 +1,0 @@
-[error]	2024-11-21 00:02:39.742696[Thread 0x00007398]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-11-21 00:02:39.745207[Thread 0x00007398]:Unable to open the fileC:\Users\Wolfe\Downloads\led_strip_holder_350mm.stl
-[error]	2024-11-21 00:02:39.745207[Thread 0x00007398]:Unable to open the fileC:\Users\Wolfe\Downloads\led_strip_holder_300mm.stl
-[error]	2024-11-21 00:02:41.976131[Thread 0x00007398]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2024-11-21 00:02:42.217305[Thread 0x00007398]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2024-11-21 00:02:44.394009[Thread 0x00007398]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-11-21 00:11:20.272155[Thread 0x00007398]:Unable to open the fileC:\Users\Wolfe\Downloads\bin-medium.stl
-[error]	2024-11-21 00:26:04.896078[Thread 0x00007398]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

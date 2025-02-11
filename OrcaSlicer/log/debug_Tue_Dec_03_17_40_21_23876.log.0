@@ -1,8 +1,0 @@
-[error]	2024-12-03 17:40:27.660939[Thread 0x000073d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-12-03 17:40:30.718090[Thread 0x000073d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[warning]	2024-12-03 17:40:31.049159[Thread 0x000073d8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
-[error]	2024-12-03 17:40:34.965211[Thread 0x000073d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
-[error]	2024-12-03 17:40:45.840872[Thread 0x000073d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
-[error]	2024-12-03 17:40:46.788447[Thread 0x000073d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
-[error]	2024-12-03 17:40:49.336160[Thread 0x000073d8]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
-[error]	2024-12-03 17:45:27.215346[Thread 0x000073d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

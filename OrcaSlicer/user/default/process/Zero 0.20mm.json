@@ -7,10 +7,10 @@
     "inherits": "0.20mm Standard @Voron",
     "initial_layer_print_height": "0.25",
     "is_custom_defined": "0",
-    "name": "0.20mm",
+    "name": "Zero 0.20mm",
     "post_process": [
-        "C:\\bin\\klipper_estimator.exe --config_moonraker_url http://trident.jw.lan post-process"
+        "C:\\bin\\klipper_estimator.exe --config_moonraker_url http://zero.jw.lan post-process"
     ],
-    "print_settings_id": "0.20mm",
+    "print_settings_id": "Zero 0.20mm",
     "version": "2.2.0.4"
 }

@@ -1,5 +1,5 @@
 {
-    "bottom_shell_layers": "4",
+    "bottom_shell_layers": "5",
     "brim_type": "no_brim",
     "elefant_foot_compensation": "0.1",
     "filename_format": "{input_filename_base}_{filament_type[initial_tool]}.gcode",
@@ -7,10 +7,16 @@
     "inherits": "0.20mm Standard @Voron",
     "initial_layer_print_height": "0.25",
     "is_custom_defined": "0",
-    "name": "0.20mm",
+    "name": "Voron Parts",
+    "outer_wall_speed": "40",
     "post_process": [
         "C:\\bin\\klipper_estimator.exe --config_moonraker_url http://trident.jw.lan post-process"
     ],
-    "print_settings_id": "0.20mm",
-    "version": "2.2.0.4"
+    "print_settings_id": "Voron Parts",
+    "sparse_infill_density": "40%",
+    "sparse_infill_pattern": "cubic",
+    "top_shell_layers": "5",
+    "version": "2.2.0.4",
+    "wall_generator": "classic",
+    "wall_loops": "4"
 }

@@ -1,9 +1,8 @@
 {
     "emit_machine_limits_to_gcode": "0",
     "from": "User",
-    "inherits": "Voron Trident 300 0.4 nozzle",
+    "inherits": "Voron 0.1 0.4 nozzle",
     "is_custom_defined": "0",
-    "machine_end_gcode": "print_end\nM191 S100",
     "machine_max_acceleration_extruding": [
         "7000",
         "20000"
@@ -16,14 +15,6 @@
         "7000",
         "20000"
     ],
-    "machine_max_acceleration_z": [
-        "350",
-        "200"
-    ],
-    "machine_max_speed_e": [
-        "24",
-        "25"
-    ],
     "machine_max_speed_x": [
         "300",
         "200"
@@ -32,14 +23,10 @@
         "300",
         "200"
     ],
-    "machine_max_speed_z": [
-        "15",
-        "12"
-    ],
     "machine_start_gcode": "M117\nprint_start EXTRUDER=[nozzle_temperature_initial_layer]  BED=[bed_temperature_initial_layer_single] \n\n;CHAMBER={chamber_temperature[0]}",
-    "name": "Trident 0.4mm",
-    "print_host": "http://trident.jw.lan",
-    "printer_settings_id": "Trident 0.4mm",
+    "name": "Zero 0.4",
+    "print_host": "http://zero.jw.lan",
+    "printer_settings_id": "Zero 0.4",
     "retraction_length": [
         "0.5"
     ],
